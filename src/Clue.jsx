@@ -23,7 +23,7 @@ const Clue = () => {
         </button>
       </nav>
       <div className="flex flex-row justify-center items-center font-redditsans mx-48 my-32 gap-32">
-        <p className="text-[172px]/[172px] text-white">
+        <p className="text-[172px]/[172px] text-white text-gradient-2">
           NEVER LOSE YOUR SECRETS
         </p>
         <div className="flex flex-col gap-12 mt-20">
